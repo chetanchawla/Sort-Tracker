@@ -1,3 +1,13 @@
+The SORT tracker had been optimized for the indian dataset and the code had been modified accordingly. The dataset is not yet public.
+
+
+
+
+
+
+From the original Authors-
+
+
 SORT
 =====
 
